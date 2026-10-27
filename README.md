@@ -39,3 +39,6 @@ GitHub에서 새 저장소(예: alfs-expense)를 만들고, 이 폴더 안의 �
 
 ## 개발
 `npm install` → `npm run dev` (로컬) · `npm run build` (배포 빌드)
+
+## 링크 미리보기(OG)
+카카오톡·문자로 주소를 보내면 `public/og-image.jpg`(1200×630)가 미리보기로 나옵니다. 이미지 주소는 Vercel 배포 주소로 자동으로 채워지고, 직접 도메인을 쓰면 Vercel 환경 변수 `SITE_URL` 에 `https://내도메인` 을 넣습니다.
